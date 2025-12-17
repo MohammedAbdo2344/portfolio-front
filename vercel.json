@@ -3,10 +3,6 @@
     {
       "source": "/",
       "destination": "/en"
-    },
-    {
-      "source": "/((?!api|_next|_static|_vercel|public|favicon.ico).*)",
-      "destination": "/en/$1"
     }
   ]
 }
