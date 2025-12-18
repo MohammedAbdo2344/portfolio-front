@@ -26,8 +26,8 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/MohammedAbdo2344/toDoListApi",
     // liveUrl: "https://ecommerce-demo.com",
     featured: true,
-    problemSolved: "Built a scalable e-commerce platform that can handle millions of users and transactions with 99.9% uptime.",
-    architecture: "Microservices architecture with API Gateway, service discovery, load balancing, and container orchestration."
+    problemSolved: "Built a feature-rich to-do list application with a secure user authentication system using JWT.",
+    // architecture: ""
   },
   {
     id: "2",
@@ -40,7 +40,7 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/username/realtime-chat-api",
     featured: true,
     problemSolved: "Created a scalable chat system that handles thousands of concurrent connections with minimal latency.",
-    architecture: "Event-driven architecture with message queues, horizontal scaling, and database sharding."
+    // architecture: "Event-driven architecture with message queues, horizontal scaling, and database sharding."
   },
   {
     id: "3",
@@ -53,8 +53,8 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/MohammedAbdo2344/wowMarketingAgency",
     // liveUrl: "https://crm-saas-demo.com",
     featured: true,
-    problemSolved: "Developed a multi-tenant CRM that serves hundreds of companies with data isolation and customization.",
-    architecture: "Multi-tenant architecture with shared database, tenant-specific configurations, and microservices for different modules."
+    problemSolved: "Built a comprehensive, bilingual CMS using Laravel 10 to manage dynamic content such as posts, projects, and services.",
+    // architecture: " "
   },
   {
     id: "4",
@@ -68,7 +68,7 @@ export const projects: Project[] = [
     liveUrl: "https://www.grandnotioneg.com/en",
     featured: false,
     problemSolved: "Built a performant API that handles 10,000+ requests per minute with proper caching and optimization.",
-    architecture: "Layered architecture with separation of concerns, caching strategies, and async task processing."
+    // architecture: "Layered architecture with separation of concerns, caching strategies, and async task processing."
   }
 ];
 
